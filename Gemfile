@@ -1,5 +1,5 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gemspec
 
-gem 'd3-rails'
+gem 'd3-rails', '>=3.4'
