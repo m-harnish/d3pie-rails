@@ -15,7 +15,7 @@ d3pie-rails provides d3pie for Rails 3.1 and higher.
 
 ## Version
 
-d3pie-rails comes with version 0.1.9 of d3pie.js. The d3pie-rails version will
+d3pie-rails comes with version 0.2.1 of d3pie.js. The d3pie-rails version will
 always mirror the version of d3pie. If you need a newer version of
 d3pie-rails, see section Development (below).
 

@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'd3-rails', '>=3.4'
+gem 'd3-rails', '>=4.1'
