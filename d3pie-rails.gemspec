@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project         = "d3pie-rails"
 
   s.add_dependency "railties", ">= 3.1"
-  s.add_dependency "d3-rails", ">= 3.4"
+  s.add_dependency "d3-rails", ">= 4.1"
   s.add_development_dependency "rails", ">= 3.1"
 
   s.files        = `git ls-files`.split("\n")
